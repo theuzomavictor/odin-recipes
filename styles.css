@@ -1,0 +1,14 @@
+
+body {
+    background-color: white;
+}
+
+.heading1 {
+    font-size: 48px;
+}
+
+.para, .list {
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
