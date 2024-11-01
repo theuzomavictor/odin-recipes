@@ -1,14 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 
 body {
-    background-color: white;
+    background-color: #e3f4ff;
 }
 
-.heading1 {
-    font-size: 48px;
+.main-content {
+    margin: 24px;
 }
 
-.para, .list {
+.heading {
+    margin-bottom: 12px;
+    font-size: 32px;
+}
+
+.para, .list-items {
     color: black;
     font-size: 18px;
     font-weight: 500;
+    margin-bottom: 8px
+}
+
+.list-items {
+    margin-left: 20px;
 }
